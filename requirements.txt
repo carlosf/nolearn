@@ -4,3 +4,4 @@ scikit-learn==0.15.2
 Theano==0.7
 tabulate==0.7.5
 git+https://github.com/benanne/Lasagne.git@9d4408f1#egg=Lasagne==0.1.dev
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
